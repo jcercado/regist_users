@@ -12,5 +12,12 @@
     "password": "secret",
     "expiresAt": "2025-12-30",
     "allowOffline": true
+  },
+  {
+    "id": "idtest32323",
+    "username": "marchande",
+    "password": "marchandess",
+    "expiresAt": "2025-10-30",
+    "allowOffline": true
   }
 ]
