@@ -4,6 +4,6 @@
     "username": "jcercado",
     "password": "4dmin2804*",
     "expiresAt": "2030-12-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
