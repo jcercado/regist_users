@@ -5,12 +5,5 @@
     "password": "Admin2804",
     "expiresAt": "2025-12-30",
     "allowOffline": true
-  },
-  {
-    "id": "fsdf23fsdfsdfsfd32",
-    "username": "Juan",
-    "password": "juan123*",
-    "expiresAt": "2025-10-12",
-    "allowOffline": true
   }
 ]
