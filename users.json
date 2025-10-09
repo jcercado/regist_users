@@ -7,23 +7,9 @@
     "allowOffline": true
   },
   {
-    "id": "6827029e9c1e0e59",
-    "username": "Developer",
-    "password": "developer123",
-    "expiresAt": "2025-10-10",
-    "allowOffline": true
-  },
-  {
     "id": "7fca540256c17cd6",
     "username": "Maldonado",
     "password": "Maldonado123*",
-    "expiresAt": "2025-10-10",
-    "allowOffline": true
-  },
-  {
-    "id": "b10ebeb8179341ad",
-    "username": "test2",
-    "password": "test2",
     "expiresAt": "2025-10-10",
     "allowOffline": true
   }
