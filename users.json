@@ -12,5 +12,12 @@
     "password": "Maldonado123*",
     "expiresAt": "2025-10-10",
     "allowOffline": true
+  },
+  {
+    "id": "6827029e9c1e0e59",
+    "username": "Mio",
+    "password": "Mio",
+    "expiresAt": "2025-10-16",
+    "allowOffline": true
   }
 ]
