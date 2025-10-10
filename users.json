@@ -47,5 +47,12 @@
     "password": "9mAsMwk",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "asdasdasd123213213",
+    "username": "user0001",
+    "password": "$m$D-Sy",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
