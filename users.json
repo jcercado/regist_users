@@ -61,5 +61,12 @@
     "password": "3ZkRiGQ",
     "expiresAt": "2025-10-15",
     "allowOffline": true
+  },
+  {
+    "id": "0daebca92c532234",
+    "username": "user0005",
+    "password": "i5!!ivx",
+    "expiresAt": "2025-10-15",
+    "allowOffline": true
   }
 ]
