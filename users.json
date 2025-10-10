@@ -33,19 +33,5 @@
     "password": "Rd123",
     "expiresAt": "2025-10-15",
     "allowOffline": true
-  },
-  {
-    "id": "asfdasfasf213123",
-    "username": "user0001",
-    "password": "gbmYbn4",
-    "expiresAt": "2025-10-31",
-    "allowOffline": true
-  },
-  {
-    "id": "fabian123",
-    "username": "user0002",
-    "password": "M!N@@sH",
-    "expiresAt": "2025-10-15",
-    "allowOffline": true
   }
 ]
