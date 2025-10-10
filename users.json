@@ -40,5 +40,12 @@
     "password": "gbmYbn4",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "fabian123",
+    "username": "user0002",
+    "password": "M!N@@sH",
+    "expiresAt": "2025-10-15",
+    "allowOffline": true
   }
 ]
