@@ -33,5 +33,12 @@
     "password": "Rd123",
     "expiresAt": "2025-10-15",
     "allowOffline": true
+  },
+  {
+    "id": "286a71b43e2aa903",
+    "username": "user0001",
+    "password": "8--9Frs",
+    "expiresAt": "2025-10-15",
+    "allowOffline": true
   }
 ]
