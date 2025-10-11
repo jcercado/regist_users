@@ -68,5 +68,12 @@
     "password": "i5!!ivx",
     "expiresAt": "2025-10-15",
     "allowOffline": true
+  },
+  {
+    "id": "1ceb0caea5e58d23",
+    "username": "user0006",
+    "password": "--DBCGi",
+    "expiresAt": "2025-10-15",
+    "allowOffline": true
   }
 ]
