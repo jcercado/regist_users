@@ -75,5 +75,12 @@
     "password": "--DBCGi",
     "expiresAt": "2025-10-15",
     "allowOffline": true
+  },
+  {
+    "id": "9fd13d415f098341",
+    "username": "user0007",
+    "password": "@G8Qx%C",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
