@@ -117,5 +117,12 @@
     "password": "3FMBHmT",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "26da1a014d736a74",
+    "username": "user0013",
+    "password": "Zt73Mke",
+    "expiresAt": "2025-10-15",
+    "allowOffline": true
   }
 ]
