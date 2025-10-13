@@ -166,5 +166,12 @@
     "password": "LX_ZEQg",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "f188bdd89764d781",
+    "username": "user0020",
+    "password": "vr!V!yx",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
