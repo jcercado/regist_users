@@ -236,5 +236,12 @@
     "password": "%MJXQDz",
     "expiresAt": "2025-10-26",
     "allowOffline": true
+  },
+  {
+    "id": "0e2ae5b5c9efb98c",
+    "username": "user0030",
+    "password": "-3%Ktfx",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
