@@ -250,5 +250,12 @@
     "password": "$T9Nr#@",
     "expiresAt": "2025-10-22",
     "allowOffline": true
+  },
+  {
+    "id": "0b4ccb55d6c6e090",
+    "username": "user0032",
+    "password": "sZ5cAu8",
+    "expiresAt": "2025-10-23",
+    "allowOffline": true
   }
 ]
