@@ -152,5 +152,12 @@
     "password": "Nbrppcg",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "56f3c37ba41d1284",
+    "username": "user0018",
+    "password": "9%$9Z*H",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
