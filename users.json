@@ -222,5 +222,12 @@
     "password": "R!C7f!a",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "4c47e270af9e4cb4",
+    "username": "user0028",
+    "password": "#tFed9y",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
