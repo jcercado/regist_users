@@ -159,5 +159,12 @@
     "password": "9%$9Z*H",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "cfdca55d87fa848c",
+    "username": "user0019",
+    "password": "LX_ZEQg",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
