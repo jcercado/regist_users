@@ -173,5 +173,12 @@
     "password": "vr!V!yx",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "6ed636539480b55d",
+    "username": "user0021",
+    "password": "UZNGq_3",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
