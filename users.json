@@ -334,5 +334,12 @@
     "password": "YC#eL#!",
     "expiresAt": "2025-10-18",
     "allowOffline": true
+  },
+  {
+    "id": "c878dd9f4d12db2e",
+    "username": "user0044",
+    "password": "fPA9@Ue",
+    "expiresAt": "2025-10-19",
+    "allowOffline": true
   }
 ]
