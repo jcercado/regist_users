@@ -313,5 +313,12 @@
     "password": "jmH_-CM",
     "expiresAt": "2025-10-18",
     "allowOffline": true
+  },
+  {
+    "id": "547be34a6bca18fa",
+    "username": "user0041",
+    "password": "qG*jRTq",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
