@@ -306,5 +306,12 @@
     "password": "yCPGyvv",
     "expiresAt": "2025-10-18",
     "allowOffline": true
+  },
+  {
+    "id": "f0be0bd49597c6f8",
+    "username": "user0040",
+    "password": "jmH_-CM",
+    "expiresAt": "2025-10-18",
+    "allowOffline": true
   }
 ]
