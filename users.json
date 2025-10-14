@@ -292,5 +292,12 @@
     "password": "aL$DRRt",
     "expiresAt": "2025-10-18",
     "allowOffline": true
+  },
+  {
+    "id": "145354e4229bf2a2",
+    "username": "user0038",
+    "password": "HL7rdgk",
+    "expiresAt": "2025-10-18",
+    "allowOffline": true
   }
 ]
