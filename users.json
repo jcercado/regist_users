@@ -299,5 +299,12 @@
     "password": "HL7rdgk",
     "expiresAt": "2025-10-19",
     "allowOffline": true
+  },
+  {
+    "id": "6eb4a90dc78ff311",
+    "username": "user0039",
+    "password": "yCPGyvv",
+    "expiresAt": "2025-10-18",
+    "allowOffline": true
   }
 ]
