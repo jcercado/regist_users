@@ -285,5 +285,12 @@
     "password": "SKswvDu",
     "expiresAt": "2025-10-17",
     "allowOffline": true
+  },
+  {
+    "id": "125f73e3c0270d7a",
+    "username": "user0037",
+    "password": "aL$DRRt",
+    "expiresAt": "2025-10-18",
+    "allowOffline": true
   }
 ]
