@@ -348,5 +348,12 @@
     "password": "PtEVAkC",
     "expiresAt": "2025-10-19",
     "allowOffline": true
+  },
+  {
+    "id": "d3493af5915b7ddc",
+    "username": "user0046",
+    "password": "*SU7W*_",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
