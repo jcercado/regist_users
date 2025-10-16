@@ -432,5 +432,12 @@
     "password": "zty!uaY",
     "expiresAt": "2025-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "4744ca000f89da36",
+    "username": "user0058",
+    "password": "D7$Fx$H",
+    "expiresAt": "2025-10-20",
+    "allowOffline": true
   }
 ]
