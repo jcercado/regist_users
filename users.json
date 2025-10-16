@@ -397,5 +397,12 @@
     "password": "s*qKfVj",
     "expiresAt": "2025-10-18",
     "allowOffline": true
+  },
+  {
+    "id": "88c53ffe210878ad",
+    "username": "user0053",
+    "password": "MAbu2MR",
+    "expiresAt": "2025-10-19",
+    "allowOffline": true
   }
 ]
