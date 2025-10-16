@@ -425,5 +425,12 @@
     "password": "#SF-5Bs",
     "expiresAt": "2025-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "ae1ccc00a8cc56f0",
+    "username": "user0057",
+    "password": "zty!uaY",
+    "expiresAt": "2025-10-20",
+    "allowOffline": true
   }
 ]
