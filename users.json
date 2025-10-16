@@ -467,5 +467,12 @@
     "password": "mqr2_7S",
     "expiresAt": "2025-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "6aa364dc4eb90d27",
+    "username": "user0063",
+    "password": "LSgwbDv",
+    "expiresAt": "2025-10-20",
+    "allowOffline": true
   }
 ]
