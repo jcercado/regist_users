@@ -474,5 +474,12 @@
     "password": "LSgwbDv",
     "expiresAt": "2025-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "39a386d40c3cc39f",
+    "username": "user0064",
+    "password": "ip8FhP*",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
