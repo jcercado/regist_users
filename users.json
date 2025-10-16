@@ -481,5 +481,12 @@
     "password": "ip8FhP*",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "0717ea09afd4d1bb",
+    "username": "user0065",
+    "password": "RbfMVum",
+    "expiresAt": "2025-10-20",
+    "allowOffline": true
   }
 ]
