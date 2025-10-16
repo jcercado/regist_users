@@ -453,5 +453,12 @@
     "password": "Bx$cn5C",
     "expiresAt": "2025-11-16",
     "allowOffline": true
+  },
+  {
+    "id": "26016716528e9fc1",
+    "username": "user0061",
+    "password": "dubGp*2",
+    "expiresAt": "2025-10-21",
+    "allowOffline": true
   }
 ]
