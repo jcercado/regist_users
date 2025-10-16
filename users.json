@@ -446,5 +446,12 @@
     "password": "ySd9vPV",
     "expiresAt": "2025-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "c797a86e66086b7a",
+    "username": "user0060",
+    "password": "Bx$cn5C",
+    "expiresAt": "2025-11-16",
+    "allowOffline": true
   }
 ]
