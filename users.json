@@ -411,5 +411,12 @@
     "password": "kjLV#xg",
     "expiresAt": "2025-10-18",
     "allowOffline": true
+  },
+  {
+    "id": "a66bdfb959089df3",
+    "username": "user0055",
+    "password": "RGXL2iN",
+    "expiresAt": "2025-10-19",
+    "allowOffline": true
   }
 ]
