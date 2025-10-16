@@ -418,5 +418,12 @@
     "password": "RGXL2iN",
     "expiresAt": "2025-10-19",
     "allowOffline": true
+  },
+  {
+    "id": "d763590861db1b72",
+    "username": "user0056",
+    "password": "#SF-5Bs",
+    "expiresAt": "2025-10-20",
+    "allowOffline": true
   }
 ]
