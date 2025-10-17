@@ -488,5 +488,12 @@
     "password": "RbfMVum",
     "expiresAt": "2025-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "894bd0e8da9e3c8d",
+    "username": "user0066",
+    "password": "tK79ZS9",
+    "expiresAt": "2025-10-21",
+    "allowOffline": true
   }
 ]
