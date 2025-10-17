@@ -502,5 +502,12 @@
     "password": "2bcTQj_",
     "expiresAt": "2025-10-21",
     "allowOffline": true
+  },
+  {
+    "id": "628a67693f2de3a8",
+    "username": "user0068",
+    "password": "c*rFpcv",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
