@@ -537,5 +537,12 @@
     "password": "Y!QZ_rq",
     "expiresAt": "2025-10-20",
     "allowOffline": true
+  },
+  {
+    "id": "d0dd00e3a810e6eb",
+    "username": "user0073",
+    "password": "RbZpkk%",
+    "expiresAt": "2025-10-22",
+    "allowOffline": true
   }
 ]
