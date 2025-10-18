@@ -565,5 +565,12 @@
     "password": "5JkkcFc",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "6b1e5ff4f834a0cb",
+    "username": "user0077",
+    "password": "JxSGhmK",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
