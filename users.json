@@ -558,5 +558,12 @@
     "password": "2zz5@uV",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "test121212",
+    "username": "user0076",
+    "password": "5JkkcFc",
+    "expiresAt": "2025-10-31",
+    "allowOffline": true
   }
 ]
