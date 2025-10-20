@@ -593,5 +593,12 @@
     "password": "jFixP9u",
     "expiresAt": "2025-10-25",
     "allowOffline": true
+  },
+  {
+    "id": "de25a6d5ecbcf970",
+    "username": "user0081",
+    "password": "2W@xcnQ",
+    "expiresAt": "2025-10-22",
+    "allowOffline": true
   }
 ]
