@@ -628,5 +628,12 @@
     "password": "W4bzVfG",
     "expiresAt": "2025-10-31",
     "allowOffline": true
+  },
+  {
+    "id": "SAMRB-23DJ2J3J211222",
+    "username": "user0086",
+    "password": "r*KLhv7",
+    "expiresAt": "2025-10-29",
+    "allowOffline": true
   }
 ]
