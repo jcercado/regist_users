@@ -649,5 +649,12 @@
     "password": "QV!zKsv",
     "expiresAt": "2025-11-28",
     "allowOffline": true
+  },
+  {
+    "id": "00289635258fb1e4",
+    "username": "user0089",
+    "password": "5*zQV7D",
+    "expiresAt": "2025-11-15",
+    "allowOffline": true
   }
 ]
