@@ -859,5 +859,12 @@
     "password": "eaMm$vA",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "d2e500fda753bc36",
+    "username": "user0119",
+    "password": "zkQ6!$-",
+    "expiresAt": "2025-11-13",
+    "allowOffline": true
   }
 ]
