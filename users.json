@@ -684,5 +684,12 @@
     "password": "bP%-GQC",
     "expiresAt": "2025-11-12",
     "allowOffline": true
+  },
+  {
+    "id": "e7d019d5063e3935",
+    "username": "user0094",
+    "password": "hLF7ccZ",
+    "expiresAt": "2025-11-15",
+    "allowOffline": true
   }
 ]
