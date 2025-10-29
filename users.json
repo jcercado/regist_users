@@ -712,5 +712,12 @@
     "password": "zuc--@j",
     "expiresAt": "2025-11-29",
     "allowOffline": true
+  },
+  {
+    "id": "5db6a7a5ea553273",
+    "username": "user0098",
+    "password": "cg4HYeF",
+    "expiresAt": "2025-11-13",
+    "allowOffline": true
   }
 ]
