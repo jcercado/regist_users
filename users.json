@@ -803,5 +803,12 @@
     "password": "E5X$8hA",
     "expiresAt": "2025-11-14",
     "allowOffline": true
+  },
+  {
+    "id": "7d97aac0a73f7c0b",
+    "username": "user0111",
+    "password": "CX#v4Wu",
+    "expiresAt": "2025-11-12",
+    "allowOffline": true
   }
 ]
