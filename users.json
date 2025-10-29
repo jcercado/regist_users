@@ -698,5 +698,12 @@
     "password": "gxe#ZgJ",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "6af77454d92cd9f5",
+    "username": "user0096",
+    "password": "?nLzGjy",
+    "expiresAt": "2025-11-14",
+    "allowOffline": true
   }
 ]
