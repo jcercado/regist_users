@@ -726,5 +726,12 @@
     "password": "%3Fm#Ku",
     "expiresAt": "2025-11-29",
     "allowOffline": true
+  },
+  {
+    "id": "ba5b88c789da4faf",
+    "username": "user0100",
+    "password": "Bb?MYhL",
+    "expiresAt": "2025-11-13",
+    "allowOffline": true
   }
 ]
