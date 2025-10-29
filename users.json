@@ -866,5 +866,12 @@
     "password": "zkQ6!$-",
     "expiresAt": "2025-11-13",
     "allowOffline": true
+  },
+  {
+    "id": "71835c54481864c1",
+    "username": "user0120",
+    "password": "@!dwmhr",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
