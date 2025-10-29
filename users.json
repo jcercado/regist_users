@@ -824,5 +824,12 @@
     "password": "GCXrr6E",
     "expiresAt": "2025-11-14",
     "allowOffline": true
+  },
+  {
+    "id": "ca315018bc039923",
+    "username": "user0114",
+    "password": "TurKrw*",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
