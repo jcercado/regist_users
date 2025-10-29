@@ -677,5 +677,12 @@
     "password": "pv?Xr3j",
     "expiresAt": "2025-11-20",
     "allowOffline": true
+  },
+  {
+    "id": "3f4a46e9545add2b",
+    "username": "user0093",
+    "password": "bP%-GQC",
+    "expiresAt": "2025-11-12",
+    "allowOffline": true
   }
 ]
