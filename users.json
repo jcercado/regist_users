@@ -810,5 +810,12 @@
     "password": "CX#v4Wu",
     "expiresAt": "2025-11-12",
     "allowOffline": true
+  },
+  {
+    "id": "9d59f1073e27dc93",
+    "username": "user0112",
+    "password": "epkkTAR",
+    "expiresAt": "2025-11-20",
+    "allowOffline": true
   }
 ]
