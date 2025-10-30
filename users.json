@@ -908,5 +908,12 @@
     "password": "*MkLHzu",
     "expiresAt": "2025-11-10",
     "allowOffline": true
+  },
+  {
+    "id": "7e38b984c1ad51fc",
+    "username": "user0126",
+    "password": "Le@@mwv",
+    "expiresAt": "2025-11-14",
+    "allowOffline": true
   }
 ]
