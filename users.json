@@ -887,5 +887,12 @@
     "password": "HG$XYM?",
     "expiresAt": "2025-11-28",
     "allowOffline": true
+  },
+  {
+    "id": "f245e162b345a2ef",
+    "username": "user0123",
+    "password": "iUSV234",
+    "expiresAt": "2025-11-14",
+    "allowOffline": true
   }
 ]
