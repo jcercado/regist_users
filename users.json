@@ -943,5 +943,12 @@
     "password": "X6-iJnU",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "98de7bb7e54d60c4",
+    "username": "user0131",
+    "password": "a-q9w9x",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
