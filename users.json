@@ -880,5 +880,12 @@
     "password": "RRv_aLh",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "b1b48b3d706c6451",
+    "username": "user0122",
+    "password": "HG$XYM?",
+    "expiresAt": "2025-11-28",
+    "allowOffline": true
   }
 ]
