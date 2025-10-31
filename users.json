@@ -957,5 +957,12 @@
     "password": "!?_%LVR",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "043dfb7a669a0583",
+    "username": "user0133",
+    "password": "d7_LLdw",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
