@@ -964,5 +964,12 @@
     "password": "d7_LLdw",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "385764007354bd36",
+    "username": "user0134",
+    "password": "W2LgFUr",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
