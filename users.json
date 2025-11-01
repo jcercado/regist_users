@@ -971,5 +971,12 @@
     "password": "W2LgFUr",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "39b73458015d1f6a",
+    "username": "user0135",
+    "password": "%%!6X!R",
+    "expiresAt": "2025-11-30",
+    "allowOffline": true
   }
 ]
