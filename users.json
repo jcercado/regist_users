@@ -978,5 +978,12 @@
     "password": "%%!6X!R",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "f036d67be30ad53d",
+    "username": "user0136",
+    "password": "qKGFnag",
+    "expiresAt": "2025-11-19",
+    "allowOffline": true
   }
 ]
