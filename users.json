@@ -1006,5 +1006,12 @@
     "password": "kK%SGQS",
     "expiresAt": "2025-12-04",
     "allowOffline": true
+  },
+  {
+    "id": "6f4c67f3c0d0e461",
+    "username": "user0140",
+    "password": "JbT$YZm",
+    "expiresAt": "2025-12-06",
+    "allowOffline": true
   }
 ]
