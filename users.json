@@ -1083,5 +1083,12 @@
     "password": "vT3L-Z?",
     "expiresAt": "2025-11-30",
     "allowOffline": true
+  },
+  {
+    "id": "2b1b2b83198cedb4",
+    "username": "user0151",
+    "password": "m?bp$-R",
+    "expiresAt": "2025-11-28",
+    "allowOffline": true
   }
 ]
