@@ -1090,5 +1090,12 @@
     "password": "m?bp$-R",
     "expiresAt": "2025-11-28",
     "allowOffline": true
+  },
+  {
+    "id": "f9d1c776692898b3",
+    "username": "user0152",
+    "password": "SZNW*rM",
+    "expiresAt": "2025-11-28",
+    "allowOffline": true
   }
 ]
