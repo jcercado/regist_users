@@ -1097,5 +1097,12 @@
     "password": "SZNW*rM",
     "expiresAt": "2025-11-28",
     "allowOffline": true
+  },
+  {
+    "id": "1faa1455c3b6cf96",
+    "username": "user0153",
+    "password": "Lp$cDpV",
+    "expiresAt": "2025-12-15",
+    "allowOffline": true
   }
 ]
