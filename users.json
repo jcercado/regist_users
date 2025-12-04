@@ -523,5 +523,12 @@
     "password": "*rtV_Eg",
     "expiresAt": "2025-12-30",
     "allowOffline": true
+  },
+  {
+    "id": "d74873cb58918a19",
+    "username": "user0160",
+    "password": "RJRyrSn",
+    "expiresAt": "2025-12-30",
+    "allowOffline": true
   }
 ]
