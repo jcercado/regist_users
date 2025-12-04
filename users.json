@@ -516,5 +516,12 @@
     "password": "AeK--dM",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "3a709bca7cc43bfe",
+    "username": "user0159",
+    "password": "*rtV_Eg",
+    "expiresAt": "2025-12-30",
+    "allowOffline": true
   }
 ]
