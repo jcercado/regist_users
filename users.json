@@ -530,5 +530,12 @@
     "password": "RJRyrSn",
     "expiresAt": "2025-12-30",
     "allowOffline": true
+  },
+  {
+    "id": "6877d7ffc29a9024",
+    "username": "user0161",
+    "password": "4E*KYxL",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
