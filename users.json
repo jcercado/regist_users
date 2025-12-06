@@ -537,5 +537,12 @@
     "password": "4E*KYxL",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
+  {
+    "id": "b58f7319b356d03c",
+    "username": "user0162",
+    "password": "Q3!@E6e",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
   }
 ]
