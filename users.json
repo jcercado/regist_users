@@ -271,5 +271,12 @@
     "password": "qUZKCvi",
     "expiresAt": "2025-12-30",
     "allowOffline": true
+  },
+  {
+    "id": "232555532testprueba",
+    "username": "user0168",
+    "password": "X8J9SKq",
+    "expiresAt": "2025-12-25",
+    "allowOffline": true
   }
 ]
