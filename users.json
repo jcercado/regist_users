@@ -299,5 +299,12 @@
     "password": "jX!w$V6",
     "expiresAt": "2025-12-25",
     "allowOffline": true
+  },
+  {
+    "id": "pruebabot123",
+    "username": "user0172",
+    "password": "jfWMwnw",
+    "expiresAt": "2025-12-25",
+    "allowOffline": true
   }
 ]
