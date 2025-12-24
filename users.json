@@ -292,5 +292,12 @@
     "password": "*gKzu#e",
     "expiresAt": "2025-12-25",
     "allowOffline": true
+  },
+  {
+    "id": "pruebajcercado123",
+    "username": "user0171",
+    "password": "jX!w$V6",
+    "expiresAt": "2025-12-25",
+    "allowOffline": true
   }
 ]
