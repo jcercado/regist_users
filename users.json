@@ -3,7 +3,7 @@
     "id": "21bc6233c9370f34",
     "username": "jcercado",
     "password": "Admin2804",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2026-12-31",
     "allowOffline": true
   },
   {
@@ -11,13 +11,6 @@
     "username": "Maldonado",
     "password": "Maldonado123*",
     "expiresAt": "2026-01-31",
-    "allowOffline": true
-  },
-  {
-    "id": "b10ebeb8179341ad",
-    "username": "Iphone",
-    "password": "Iphone",
-    "expiresAt": "2025-11-28",
     "allowOffline": true
   },
   {
@@ -74,13 +67,6 @@
     "username": "user0102",
     "password": "GZhW4x7",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "f12034ae61e9ed6c",
-    "username": "user0103",
-    "password": "VPB2tyR",
-    "expiresAt": "2025-12-18",
     "allowOffline": true
   },
   {
@@ -154,13 +140,6 @@
     "allowOffline": true
   },
   {
-    "id": "a04b72ab649606d2",
-    "username": "user0144",
-    "password": "RnWhW*u",
-    "expiresAt": "2025-12-07",
-    "allowOffline": true
-  },
-  {
     "id": "4292631bc3d9b798",
     "username": "user0146",
     "password": "pNb?64j",
@@ -172,27 +151,6 @@
     "username": "user0148",
     "password": "Tmx_9WL",
     "expiresAt": "2026-01-31",
-    "allowOffline": true
-  },
-  {
-    "id": "f9d1c776692898b3",
-    "username": "user0152",
-    "password": "SZNW*rM",
-    "expiresAt": "2025-12-12",
-    "allowOffline": true
-  },
-  {
-    "id": "1faa1455c3b6cf96",
-    "username": "user0153",
-    "password": "Lp$cDpV",
-    "expiresAt": "2025-12-15",
-    "allowOffline": true
-  },
-  {
-    "id": "bac5df49550854ef",
-    "username": "user0156",
-    "password": "5J3uXiM",
-    "expiresAt": "2025-12-10",
     "allowOffline": true
   },
   {
@@ -270,41 +228,6 @@
     "username": "user0167",
     "password": "qUZKCvi",
     "expiresAt": "2025-12-30",
-    "allowOffline": true
-  },
-  {
-    "id": "232555532testprueba",
-    "username": "user0168",
-    "password": "X8J9SKq",
-    "expiresAt": "2025-12-25",
-    "allowOffline": true
-  },
-  {
-    "id": "prueba2jcercado",
-    "username": "user0169",
-    "password": "ak3zuEB",
-    "expiresAt": "2025-12-25",
-    "allowOffline": true
-  },
-  {
-    "id": "jcercadoprueba",
-    "username": "user0170",
-    "password": "*gKzu#e",
-    "expiresAt": "2025-12-25",
-    "allowOffline": true
-  },
-  {
-    "id": "pruebajcercado123",
-    "username": "user0171",
-    "password": "jX!w$V6",
-    "expiresAt": "2025-12-25",
-    "allowOffline": true
-  },
-  {
-    "id": "pruebabot123",
-    "username": "user0172",
-    "password": "jfWMwnw",
-    "expiresAt": "2025-12-25",
     "allowOffline": true
   }
 ]
