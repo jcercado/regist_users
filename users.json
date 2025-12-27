@@ -243,5 +243,12 @@
     "password": "vWkcXyM",
     "expiresAt": "2026-01-31",
     "allowOffline": true
+  },
+  {
+    "id": "7ddfc22ceff30e1a",
+    "username": "user0170",
+    "password": "zGDju#t",
+    "expiresAt": "2026-01-31",
+    "allowOffline": true
   }
 ]
