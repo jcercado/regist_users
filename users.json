@@ -250,5 +250,12 @@
     "password": "zGDju#t",
     "expiresAt": "2026-01-31",
     "allowOffline": true
+  },
+  {
+    "id": "ef524da697931320",
+    "username": "user0171",
+    "password": "L35dXQ2",
+    "expiresAt": "2026-01-31",
+    "allowOffline": true
   }
 ]
