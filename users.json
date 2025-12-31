@@ -278,5 +278,12 @@
     "password": "tAE5WNY",
     "expiresAt": "2026-01-31",
     "allowOffline": true
+  },
+  {
+    "id": "a10a6e1f5b75be2d",
+    "username": "user0175",
+    "password": "SNXGX67",
+    "expiresAt": "2026-01-31",
+    "allowOffline": true
   }
 ]
