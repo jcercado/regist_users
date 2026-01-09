@@ -292,5 +292,12 @@
     "password": "tK6fXT-",
     "expiresAt": "2026-02-28",
     "allowOffline": true
+  },
+  {
+    "id": "a04b72ab649606d2",
+    "username": "user0177",
+    "password": "HYMXs_z",
+    "expiresAt": "2026-04-30",
+    "allowOffline": true
   }
 ]
