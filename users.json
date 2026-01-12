@@ -299,5 +299,12 @@
     "password": "HYMXs_z",
     "expiresAt": "2026-04-30",
     "allowOffline": true
+  },
+  {
+    "id": "b1abe8dfc0a7a4e4",
+    "username": "user0178",
+    "password": "pLMJ%?q",
+    "expiresAt": "2026-02-28",
+    "allowOffline": true
   }
 ]
